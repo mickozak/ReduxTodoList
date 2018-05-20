@@ -1,4 +1,4 @@
-React - Redux - ToDo List
+# React - Redux - ToDo List
 
 Application for task management.
 
